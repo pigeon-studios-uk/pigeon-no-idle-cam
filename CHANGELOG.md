@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-07
+
 First release.
 
 ### Highlights
@@ -24,4 +26,5 @@ First release.
 - `Config.OnFoot` and `Config.InVehicles` to choose where it's stopped.
 - Update checker from the Pigeon Studios version registry.
 
-[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-no-idle-cam/commits/main
+[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-no-idle-cam/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/pigeon-studios-uk/pigeon-no-idle-cam/releases/tag/v1.0.0
